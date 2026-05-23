@@ -1,1 +1,1 @@
-# Retail-Sales-Data-Agent-
+This project was about building  a working Data Agent on Databricks that answers business questions about a real retail sales dataset, the agent helps a business user, manager, or CEO ask questions about a shop's sales performance and receive useful business insights. 
